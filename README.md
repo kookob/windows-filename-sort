@@ -18,4 +18,4 @@ File name are sorted by windows rule
 * 还有各种组合的特殊场景比较
 * ...
 
-具体可以参考下测试列表里面的文件名，里面的顺序并非是Windows的排序结果。
+具体示例可以参考下 [测试文件1](https://github.com/kookob/windows-filename-sort/blob/master/src/com/obroom/filenamesort/test/%E6%B5%8B%E8%AF%95%E5%88%97%E8%A1%A81.txt) 文件里面的排序结果。
